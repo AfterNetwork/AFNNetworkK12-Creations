@@ -4,7 +4,7 @@ class Main {
     Scanner github = new Scanner(System.in);
     int XP = 50
     System.out.println("Type in how much XP you want, you have currently have 50 XP")
-      int XP = XP + keyboard.nextInt();
+      int XP +=  keyboard.next();
       
        
   }
